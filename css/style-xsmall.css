@@ -81,6 +81,9 @@
 		}
 
 /* Main */
+	#header {
+		height: 90vh;
+	}
 
 #header .container {
                 margin-left: -50%;
