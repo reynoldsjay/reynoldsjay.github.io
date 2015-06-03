@@ -82,8 +82,13 @@
 
 /* Main */
 	#header {
-		height: 90vh;
+		height: 100vh;
 	}
+
+
+ul.icons li .icon:before {
+					font-size: 3em;
+				}
 
 #header .container {
                 margin-left: -50%;
