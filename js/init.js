@@ -10,8 +10,8 @@
 		reset: 'full',
 		breakpoints: {
 			global: { href: 'css/style.css', containers: '35em', grid: { gutters: ['1.5em', 0] } },
-			large: { media: '(max-width: 1680px)', href: 'css/style-large.css' },
-			medium: { media: '(max-width: 980px)', href: 'css/style-medium.css', containers: '80%', viewport: { scalable: false } },
+			large: { media: '(max-width: 5000px)', href: 'css/style-large.css' },
+			medium: { media: '(max-width: 1680px)', href: 'css/style-medium.css', containers: '80%', viewport: { scalable: false } },
 			small: { media: '(max-width: 736px)', href: 'css/style-small.css', grid: { gutters: ['1em', 0] } },
 			xsmall: { media: '(max-width: 480px)', href: 'css/style-xsmall.css', containers: '100%' }
 		}
